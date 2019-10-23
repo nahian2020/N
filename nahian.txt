@@ -1,1 +1,2 @@
-This is my first text file. I am learning selenium
+This is my first text file. I am learning selenium.
+I am really enjoying this learning process
